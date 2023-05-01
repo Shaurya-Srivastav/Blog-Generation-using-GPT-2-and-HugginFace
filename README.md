@@ -6,5 +6,5 @@
 - outputs a tokenized sentence to decode
 - saves output into textfile.
 
-- #Generates text based on input#
-- #User can specify text generation length#
+#Generates text based on input#
+#User can specify text generation length#
